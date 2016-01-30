@@ -1,0 +1,852 @@
+
+
+
+<!DOCTYPE html>
+<html class="rock snarly bagon_song_page--enabled fact_tracks--enabled" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en">
+  <head>
+    <base target='_top' href="//genius.com/Lady-gaga-poker-face-lyrics">
+
+    <script type="text/javascript">
+//<![CDATA[
+var _sf_startpt=(new Date()).getTime();
+//]]>
+</script>
+<title>Lady Gaga – Poker Face Lyrics | Genius</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"25a615a0b6","applicationID":"309898","transactionName":"IFleFkcJCAhdERtFXQ1RQ01GDgsT","queueTime":0,"applicationTime":89,"agentToken":null,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c>u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(p,function(e,n){t[e]||(t[e]=n)});var n="https"===s.split(":")[0]||t.sslForHttp;l.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),c=t(1),u=window,f=u.document;t(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],12:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},["G9z0Bl"]);</script>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel='chrome-webstore-item' href='https://chrome.google.com/webstore/detail/ccaokncpmmjiakalbcfdbfmpcaiddjdn'>
+<meta name="apple-itunes-app" content="app-id=709482991">
+<link href="https://assets.rapgenius.com/images/apple-touch-icon.png?1454102891" rel="apple-touch-icon-precomposed" />
+
+
+
+
+  <link href="https://assets.rapgenius.com/images/apple-touch-icon.png?1454102891" rel="apple-touch-icon-precomposed" />
+
+
+
+  <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+  <meta http-equiv="cleartype" content="on">
+
+
+
+
+<META name="y_key" content="f63347d284f184b0">
+
+<meta property="og:site_name" content="Genius"/>
+<meta property="fb:app_id" content="265539304824" />
+
+<script>
+  var CURRENT_USER = null;
+  var CANONICAL_DOMAIN = "genius.com";
+  var CANONICAL_DOMAIN_PARTS_LENGTH = 2;
+  var CURRENT_CHANNEL = "rock";
+  var CURRENT_TAG = {"tag":{"always_allow_personal_annotation":null,"beefy":true,"created_at":"2013-11-01T11:44:18Z","deleted_at":null,"description":"Welcome to Pop Genius!  We break down the catchiest tunes of all time, from [Phil Spector drama](http://rock.rapgenius.com/Tina-turner-river-deep-mountain-high-lyrics) to [Madonna](http://rock.rapgenius.com/Madonna-like-a-virgin-lyrics) to [Lana](http://rock.rapgenius.com/Lana-del-rey-brooklyn-baby-lyrics).  Join the discussion in our [forum](http://rock.rapgenius.com/pop-team), and follow us on [Twitter](https://twitter.com/pop_genius) and [Facebook](https://www.facebook.com/thepopgenius).","designation":"featured_music","google_analytics_table_id":"ga:88194499","id":16,"image_url":"https://images.rapgenius.com/b9f560586012e6c61f052771eda6678d.300x300x1.jpg","implied_channel_id":2,"languages_store":{},"logical_name":null,"name":"Pop Genius","slug":"pop","taggings_count":1339019,"twitter_name":"Pop_Genius","updated_at":"2015-07-30T21:10:50Z"}};
+  var TRACKING_DATA = {"Song ID":1316,"Title":"Poker Face Lyrics","Primary Artist":"Lady Gaga","Primary Artist ID":447,"Primary Album":"The Fame","Primary Album ID":17375,"Primary Tag":"pop","Primary Tag ID":16,"Music?":true,"Annotatable Type":"Song","Annotatable ID":1316,"featured_video":true,"cohort_ids":[],"fewer_referents":false};
+  var VALID_SUBDOMAINS = ["x","news","screen","meta","rap","history","rock","country","r-b","lit","pop","law","tech","sports"];
+  var EMBEDLY_KEY = "fc778e44915911e088ae4040f9f86dcd";
+  var MOBILE_DEVICE = false;
+  var APP_CONFIG = {"api_root_url":"/api","facebook_app_id":"265539304824","pusher_app_key":"6d893fcc6a0c695853ac","embedly_key":"fc778e44915911e088ae4040f9f86dcd","app_store_url":"https://itunes.apple.com/us/app/genius-by-rap-genius-search/id709482991?ls=1&mt=8","play_store_url":"https://play.google.com/store/apps/details?id=com.genius.android","soundcloud_client_id":"632c544d1c382f82526f369877aab5c0","annotator_context_length":32,"comment_reasons":[{"id":1,"name":"restates-the-line","handle":"Restates the line","slug":"restates_the_line","raw_name":"restates the line","context_url":"http://genius.com/7507130/Genius-the-genius-knowledge-project/Restates-the-line"},{"id":2,"name":"its-a-stretch","handle":"It’s a stretch","slug":"its_a_stretch","raw_name":"it’s a stretch","context_url":"http://genius.com/7493680/Genius-the-genius-knowledge-project/Its-a-stretch"},{"id":3,"name":"missing-something","handle":"Missing something","slug":"missing_something","raw_name":"missing something","context_url":"http://genius.com/7507158/Genius-the-genius-knowledge-project/Missing-something"},{"id":4,"name":"other","handle":"Other","slug":"other","raw_name":"other","context_url":"http://genius.com/7507176/Genius-the-genius-knowledge-project"}],"filepicker_api_key":"Ar03MDs73TQm241ZgLwfjz","filepicker_policy":"eyJjYWxsIjpbInBpY2siLCJwaWNrQW5kU3RvcmUiLCJzdG9yZSIsInJlYWQiXSwiZXhwaXJ5IjoiMTQ1ODIyODIyMiJ9","filepicker_signature":"6dea69d4bb3a9273da40b82319809f8a65cbb452822bca47675cffb2b5dece92","filepicker_s3_image_bucket":"filepicker-images-rapgenius","available_roles":["moderator","mega_boss","in_house_staff","verified_artist","meme_artist","engineer","editor","educator","staff","whitehat","tech_liaison","mediator"],"zeroclipboard_swf_path":"https://assets.rapgenius.com/flash/ZeroClipboard.swf?1454102891","canonical_domain":"genius.com","enable_angular_debug":false,"airbrake_project_id":"7530","airbrake_key":"dcd059598ee876ad6f624f97647f0a8d","airbrake_env":"production","airbrake_development_mode":false,"fact_track_launch_article_url":"http://genius.com/a/genius-and-spotify-together"};
+  var SESSION_CONFIG = {"current_user":null,"chat_enabled":null};
+  var TOP_LEVEL_BLOCK_CONTAINERS = ["address","article","aside","blockquote","div","dl","fieldset","footer","form","h1","h2","h3","h4","h5","h6","header","menu","nav","ol","p","pre","section","table","ul"];
+  var TOP_LEVEL_STANDALONE_BLOCKS = ["img","hr"];
+</script>
+
+
+  <link href="https://assets.rapgenius.com/stylesheets/compiled/bagon_desktop-1b7eae2840380e132aaa21352c2e80cb.css" media="screen" rel="stylesheet" type="text/css" />
+  <script defer="defer" src="https://assets.rapgenius.com/javascripts/compiled/bagon_desktop-cc2d1194bb8afb51b8171b1aced66ea1.js" type="text/javascript"></script>
+
+
+
+
+
+    <meta property="og:url" content="http://genius.com/Lady-gaga-poker-face-lyrics">
+
+
+
+    <meta property="og:type" content="music.song">
+
+
+
+    <meta property="og:title" content="Lady Gaga – Poker Face">
+
+
+
+    <meta property="og:description" content="“Poker Face” is the second single from Lady Gaga’s debut studio album, The Fame, taking the crown for her most successful single alongside “Just Dance.” The official music video">
+
+
+
+    <meta property="og:image" content="https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png">
+
+    <meta property="og:image" content="https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png">
+
+    <meta property="og:image" content="https://images.rapgenius.com/4e782d851106c3f23df6864886f3a24a.400x400x1.jpg">
+
+    <meta property="og:image" content="https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg">
+
+    <meta property="og:image" content="https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg">
+
+    <meta property="og:image" content="http://assets.rapgenius.com/images/sharable_snarly.png?1453491651">
+
+
+
+
+
+
+  <meta property="twitter:url" content="http://genius.com/Lady-gaga-poker-face-lyrics">
+
+  <meta property="twitter:type" content="music.song">
+
+  <meta property="twitter:title" content="Lady Gaga – Poker Face">
+
+  <meta property="twitter:description" content="“Poker Face” is the second single from Lady Gaga’s debut studio album, The Fame, taking the crown for her most successful single alongside “Just Dance.” The official music video">
+
+  <meta property="twitter:image" content="https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png">
+
+  <meta property="twitter:card" content="summary">
+
+  <meta property="twitter:site" content="@Genius">
+
+
+  <meta property="twitter:app:name:iphone" content="Genius">
+  <meta property="twitter:app:id:iphone" content="709482991">
+  <meta property="twitter:app:url:iphone" content="genius://songs/1316">
+
+<meta name="description" content="Lyrics and meaning of “Poker Face” by Lady Gaga on Genius. “Poker Face” is the second single from Lady Gaga’s debut studio album, The Fame, taking the crown for her most successful single alongside “Just Dance.” The official music video" />
+  <link href="ios-app://709482991/genius/songs/1316" rel="alternate" />
+  <link href="http://genius.com/Lady-gaga-poker-face-lyrics" rel="canonical" />
+
+
+
+  <script type="text/javascript">
+  var _qevents = _qevents || [];
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == 'https:' ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+    elem.async = true;
+    elem.type = 'text/javascript';
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+
+
+    _gaq.push(['_setAccount', 'UA-10346621-1']);
+
+    var VISITOR_LEVEL = 1
+    var SESSION_LEVEL = 2
+    var PAGE_LEVEL = 3
+
+    var logged_in = !!window.CURRENT_USER
+    _gaq.push(['_setCustomVar', 1, 'Logged in', String(logged_in), SESSION_LEVEL])
+    _gaq.push(['_setCustomVar', 2, 'Controller action', 'songs#show', PAGE_LEVEL])
+
+    if (window.TRACKING_DATA) {
+      if ("Primary Tag" in TRACKING_DATA) {
+        _gaq.push(['_setCustomVar', 3, "Primary tag", TRACKING_DATA["Primary Tag"], PAGE_LEVEL])
+      }
+
+      if ("Music?" in TRACKING_DATA) {
+        _gaq.push(['_setCustomVar', 4, "Music", String(TRACKING_DATA["Music?"]), PAGE_LEVEL])
+      }
+    }
+
+    _gaq.push(['_trackPageview']); // this was causing duplicate pageviews (untill i killed jquery-address)
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+
+</script>
+
+
+  </head>
+
+  <body class="act-show cont-songs snarly" ng-app="genius">
+
+
+
+
+
+<div class="header" ng-controller="HeaderCtrl as header_ctrl" click-outside="close_mobile_subnav_menu()">
+  <div class="header-primary active">
+    <div class="header-expand_nav_menu" ng-click="toggle_mobile_subnav_menu()"><div class="header-expand_nav_menu-contents"></div></div>
+
+
+
+<search-form search-style="header" path="/search"></search-form>
+
+
+
+    <div class="logo_container">
+      <a href="http://genius.com/" class="logo_link">GENIUS</a>
+    </div>
+
+    <div class="actions">
+      <mutually-exclusive-switches property="open_header_menus">
+
+
+
+
+
+
+      </mutually-exclusive-switches>
+
+
+        <a href="/signup" class="header-user_info header-user_info--sign_up facebox" ng-click="header_ctrl.prompt_auth = 'signing_up'" prevent-default-click="true" rel="nofollow">Sign Up</a>
+        <a href="/login" class="header-user_info header-user_info--sign_in facebox" ng-click="header_ctrl.prompt_auth = 'signing_in'" prevent-default-click="true" rel="nofollow">Sign In</a>
+
+    </div>
+  </div>
+  <ul class="header-nav_menu" ng-class="{'header-nav_menu--visible': mobile_subnav_menu_open}">
+  <div ng-cloak>
+    <header-menu-item name="Lyrics">
+      <ul class="nav_menu-sub_menu">
+
+          <li class="nav_menu-sub_item">
+            <a href="http://rap.genius.com/" class="nav_menu-sub_link">Rap</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://pop.genius.com/" class="nav_menu-sub_link">Pop</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://rock.genius.com/" class="nav_menu-sub_link">Rock</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://r-b.genius.com/" class="nav_menu-sub_link">R&B</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://country.genius.com/" class="nav_menu-sub_link">Country</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://genius.com/tags/france" class="nav_menu-sub_link">France</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://genius.com/tags/deutschland" class="nav_menu-sub_link">Deutschland</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://genius.com/tags/polska" class="nav_menu-sub_link">Polska</a>
+          </li>
+
+      </ul>
+    </header-menu-item>
+
+    <header-menu-item name="Texts">
+      <ul class="nav_menu-sub_menu">
+
+          <li class="nav_menu-sub_item">
+            <a href="http://lit.genius.com/" class="nav_menu-sub_link">Lit</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://news.genius.com/" class="nav_menu-sub_link">News</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://screen.genius.com/" class="nav_menu-sub_link">Screen</a>
+          </li>
+
+          <li class="nav_menu-sub_item">
+            <a href="http://sports.genius.com/" class="nav_menu-sub_link">Sports</a>
+          </li>
+
+      </ul>
+    </header-menu-item>
+
+    <header-menu-item name="Forums" url="http://genius.com/pop-genius"></header-menu-item>
+    <header-menu-item name="Add Song" url="/new"></header-menu-item>
+    <header-menu-item name="Annotate the Web" url="http://genius.com/web-annotator"></header-menu-item>
+  </div>
+</ul>
+
+
+  <modal-window ng-if="header_ctrl.prompt_auth" on-close="header_ctrl.prompt_auth = false" variants="{narrow_width: true}">
+    <authentication-form signing-in="header_ctrl.prompt_auth === 'signing_in'"></authentication-form>
+  </modal-window>
+</div>
+
+
+    <div class="global_messages">
+
+
+      <flash-messages></flash-messages>
+    </div>
+
+
+
+
+
+
+
+
+      <script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"MusicRecording","byArtist":{"@context":"http://schema.org","@type":"MusicGroup","name":"Lady Gaga","url":"http://genius.com/artists/Lady-gaga","image":"https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg"},"image":"https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png","inAlbum":[{"@context":"http://schema.org","@type":"MusicAlbum","byArtist":{"@context":"http://schema.org","@type":"MusicGroup","name":"Lady Gaga","url":"http://genius.com/artists/Lady-gaga","image":"https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg"},"image":"https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg","name":"The Fame","url":"http://genius.com/albums/Lady-gaga/The-fame","datePublished":"2008-07-26","numTracks":17}],"name":"Poker Face","url":"http://genius.com/Lady-gaga-poker-face-lyrics","datePublished":"2008-09-26"}
+      </script>
+
+
+
+<div ng-controller="SongCtrl as song_ctrl">
+  <preload ng-non-bindable=""><preload-content data-preload_data="{&quot;song&quot;:{&quot;id&quot;:1316,&quot;title&quot;:&quot;Poker Face&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-poker-face-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-poker-face-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:32,&quot;updated_by_human_at&quot;:1440930068,&quot;lyrics_updated_at&quot;:1440123535,&quot;instrumental&quot;:false,&quot;published&quot;:false,&quot;hidden&quot;:false,&quot;viewable_by_roles&quot;:[&quot;in_house_staff&quot;],&quot;description_preview&quot;:&quot;“Poker Face” is the second single from Lady Gaga’s debut studio album, The Fame, taking the crown for her most successful single alongside “Just Dance.” The official music video was released on October 22nd, 2008. (Watch it by pressing play above!)\n\nAre the rules of sexual attraction akin to the rules of poker? Gaga asserts “Poker Face” is about bisexuality. She described poker face as the expression she pulls when she’s having sex with a man, but wishes she was having sex with a woman.\n\n“Poker Face” reigns as one of the best-selling singles of all time, with over 14 million copies sold. The song climbed to #1 in 20 countries, racking up over 7 million downloads to make it Gaga’s best selling digital single. The track won Gaga her first Grammy for Best Dance Recording at the 52nd Grammy Awards, while it was also nominated for Song of the Year and Record of the Year.&quot;,&quot;comment_count&quot;:4,&quot;tags&quot;:[{&quot;id&quot;:16,&quot;name&quot;:&quot;Pop&quot;,&quot;url&quot;:&quot;http://pop.genius.com/&quot;,&quot;primary&quot;:true}],&quot;release_date&quot;:&quot;2008-09-26&quot;,&quot;twitter_share_message&quot;:&quot;Lady Gaga – Poker Face @ladygaga http://genius.com/Lady-gaga-poker-face-lyrics&quot;,&quot;twitter_share_message_without_url&quot;:&quot;Lady Gaga – Poker Face @ladygaga&quot;,&quot;share_url&quot;:&quot;http://genius.com/Lady-gaga-poker-face-lyrics&quot;,&quot;embed_content&quot;:&quot;&lt;div id=&#39;rg_embed_link_1316&#39; class=&#39;rg_embed_link&#39; data-song-id=&#39;1316&#39;&gt;Read &lt;a href=&#39;http://genius.com/Lady-gaga-poker-face-lyrics&#39;&gt;“Poker Face” by Lady Gaga&lt;/a&gt; on Genius&lt;/div&gt; &lt;script crossorigin src=&#39;//genius.com/songs/1316/embed.js&#39;&gt;&lt;/script&gt;&quot;,&quot;tracking_paths&quot;:{&quot;aggregate&quot;:&quot;/Lady-gaga-poker-face-lyrics&quot;,&quot;concurrent&quot;:&quot;/Lady-gaga-poker-face-lyrics&quot;},&quot;bop_url&quot;:&quot;https://www.bop.fm/embed/Lady%20Gaga/Poker%20Face/http%3A%2F%2Fgenius.com%2FLady-gaga-poker-face-lyrics?pref_track%5B%5D=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbESGLojNYSo&quot;,&quot;soundcloud_url&quot;:&quot;&quot;,&quot;youtube_url&quot;:&quot;http://www.youtube.com/watch?v=bESGLojNYSo&quot;,&quot;vevo_url&quot;:null,&quot;youtube_start&quot;:&quot;0&quot;,&quot;custom_header_image_url&quot;:&quot;https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png&quot;,&quot;custom_song_art_image_url&quot;:null,&quot;featured_video&quot;:true,&quot;top_scholar&quot;:{&quot;user&quot;:{&quot;id&quot;:304401,&quot;name&quot;:&quot;Laayla&quot;,&quot;avatar&quot;:{&quot;tiny&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/tiny/4ab20de14f8929fbfca39372e16a6242&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:16,&quot;height&quot;:16}},&quot;thumb&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/thumb/4ab20de14f8929fbfca39372e16a6242&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:32,&quot;height&quot;:32}},&quot;medium&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/medium/4ab20de14f8929fbfca39372e16a6242&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:300,&quot;height&quot;:400}}},&quot;url&quot;:&quot;http://genius.com/Laayla&quot;,&quot;login&quot;:&quot;Laayla&quot;,&quot;role_for_display&quot;:&quot;editor&quot;,&quot;iq&quot;:14854.3204705339,&quot;is_meme_verified&quot;:false,&quot;is_verified&quot;:false,&quot;about_me_summary&quot;:&quot;Laayla’s Twitter\n\n\n\nYo! Check out Anilyst!\n\n\nAnilyst’s Twitter\nAnilyst’s YouTube\nAnilyst’s Site\nAnilyst’s Facebook\n\n\n\n\n\nDon’t forget to check out Adil!\n\n\nAdil Omar’s Twitter\nAdil Omar’s Facebook\n\n\n\nIn alphabetical order, my rap TASTE:\n\nAdil Omar, Aesop Rock, Andre 3000, Anilyst, Atmosphere, Binary Star, Blackalicious, Blackstar, BTNH, Busta Rhymes, Childish Gambino, Common, Cunninlynguists, D12, DMX, Eminem, Ice Cube, Immortal Technique, Jay-Z, Jurassic 5, Kanye West, Kendrick Lamar, Lauryn Hill, Lowkey, Lupe Fiasco, Lyrics Born, Machine Gun Kelly, Masta Ace, Mos Def, Nas, Notorious BIG, Outkast, Outlandish, Rakim, Royce Da 5&#39;9, Schoolboy Q, Snow Tha Product, Talib Kweli, Tech N9ne, The Streets, Tonedeff, Tupac, Twista, Watsky, Wiley, Wu-Tang Clan, XV, Xzibit&quot;},&quot;attribution&quot;:null,&quot;attribution_value&quot;:141.8},&quot;ios_app_url&quot;:&quot;genius://songs/1316&quot;,&quot;is_music&quot;:true,&quot;pusher_channel&quot;:&quot;song-1316&quot;,&quot;albums&quot;:[{&quot;id&quot;:17375,&quot;name&quot;:&quot;The Fame&quot;,&quot;url&quot;:&quot;http://genius.com/albums/Lady-gaga/The-fame&quot;,&quot;cover_art_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;api_path&quot;:&quot;/albums/17375&quot;,&quot;artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;name_with_artist&quot;:&quot;The Fame (artist: Lady Gaga)&quot;,&quot;cover_art_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;}],&quot;spotify_uuid&quot;:null,&quot;fact_track_playlist_url&quot;:null,&quot;song_art_image_url&quot;:&quot;https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png&quot;,&quot;description&quot;:{&quot;html&quot;:&quot;&lt;p&gt;“Poker Face” is the second single from &lt;a href=\&quot;http://genius.com/artists/Lady-gaga\&quot; data-api_path=\&quot;/artists/447\&quot;&gt;Lady Gaga&lt;/a&gt;’s debut studio album, &lt;a href=\&quot;http://genius.com/albums/Lady-gaga/The-fame\&quot; data-api_path=\&quot;/albums/17375\&quot;&gt;&lt;em&gt;The Fame&lt;/em&gt;&lt;/a&gt;, taking the crown for her most successful single alongside “&lt;a href=\&quot;http://genius.com/lady-gaga-just-dance-lyrics\&quot; data-api_path=\&quot;/songs/51012\&quot;&gt;Just Dance&lt;/a&gt;.” The official music video was released on October 22nd, 2008. (Watch it by pressing play above!)&lt;/p&gt;\n\n&lt;p&gt;Are the rules of sexual attraction akin to the rules of poker? Gaga asserts “Poker Face” is about bisexuality. &lt;a href=\&quot;http://www.nbcbayarea.com/entertainment/celebrity/Lady_GaGa_Entertains_Thousands_At_Palm_Springs_White_Party.html\&quot; rel=\&quot;nofollow\&quot;&gt;She described&lt;/a&gt; &lt;em&gt;poker face&lt;/em&gt; as the expression she pulls when she’s having sex with a man, but wishes she was having sex with a woman.&lt;/p&gt;\n\n&lt;p&gt;“Poker Face” reigns as one of the &lt;a href=\&quot;https://en.wikipedia.org/wiki/List_of_best-selling_singles\&quot; rel=\&quot;nofollow\&quot;&gt;best-selling singles of all time&lt;/a&gt;, with over 14 million copies sold. The song climbed to #1 in 20 countries, racking up over 7 million downloads to make it Gaga’s best selling digital single. The track won Gaga her first Grammy for &lt;a href=\&quot;https://www.grammy.com/artist/lady-gaga\&quot; rel=\&quot;nofollow\&quot;&gt;Best Dance Recording&lt;/a&gt; at the 52nd Grammy Awards, while it was also nominated for Song of the Year and Record of the Year.&lt;/p&gt;\n\n&lt;p&gt;&lt;img src=\&quot;https://images.rapgenius.com/4e782d851106c3f23df6864886f3a24a.400x400x1.jpg\&quot; alt=\&quot;\&quot; width=\&quot;400\&quot; height=\&quot;400\&quot; data-animated=\&quot;false\&quot;&gt;&lt;/p&gt;&quot;,&quot;markdown&quot;:&quot;\&quot;Poker Face\&quot; is the second single from [Lady Gaga](/artists/Lady-gaga)&#39;s debut studio album, [*The Fame*](http://genius.com/albums/Lady-gaga/The-fame), taking the crown for her most successful single alongside \&quot;[Just Dance](/lady-gaga-just-dance-lyrics).\&quot; The official music video was released on October 22nd, 2008. (Watch it by pressing play above!)\n\nAre the rules of sexual attraction akin to the rules of poker? Gaga asserts \&quot;Poker Face\&quot; is about bisexuality. [She described](http://www.nbcbayarea.com/entertainment/celebrity/Lady_GaGa_Entertains_Thousands_At_Palm_Springs_White_Party.html) *poker face* as the expression she pulls when she&#39;s having sex with a man, but wishes she was having sex with a woman.\n\n\&quot;Poker Face\&quot; reigns as one of the [best-selling singles of all time](https://en.wikipedia.org/wiki/List_of_best-selling_singles), with over 14 million copies sold. The song climbed to #1 in 20 countries, racking up over 7 million downloads to make it Gaga&#39;s best selling digital single. The track won Gaga her first Grammy for [Best Dance Recording](https://www.grammy.com/artist/lady-gaga) at the 52nd Grammy Awards, while it was also nominated for Song of the Year and Record of the Year.\n\nhttp://images.rapgenius.com/4e782d851106c3f23df6864886f3a24a.400x400x1.jpg&quot;},&quot;description_annotation&quot;:{&quot;id&quot;:3491428,&quot;song_id&quot;:1316,&quot;annotatable&quot;:{&quot;id&quot;:1316,&quot;type&quot;:&quot;Song&quot;,&quot;title&quot;:&quot;Poker Face&quot;,&quot;link_title&quot;:&quot;Poker Face by Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-poker-face-lyrics&quot;,&quot;api_path&quot;:&quot;/songs/1316&quot;,&quot;client_timestamps&quot;:{&quot;updated_by_human_at&quot;:1440930068,&quot;lyrics_updated_at&quot;:1440123535}},&quot;annotator_id&quot;:7,&quot;annotator_login&quot;:&quot;Maboo&quot;,&quot;fragment&quot;:&quot;Poker Face&quot;,&quot;classification&quot;:&quot;accepted&quot;,&quot;range&quot;:{&quot;content&quot;:&quot;Poker Face&quot;},&quot;path&quot;:&quot;/3491428/Lady-gaga-poker-face/Poker-face&quot;,&quot;url&quot;:&quot;http://genius.com/3491428/Lady-gaga-poker-face/Poker-face&quot;,&quot;api_path&quot;:&quot;/referents/3491428&quot;,&quot;is_description&quot;:true,&quot;current_user_metadata&quot;:{&quot;permissions&quot;:[],&quot;relationships&quot;:{}},&quot;tracking_paths&quot;:{&quot;aggregate&quot;:&quot;/3491428/Lady-gaga-poker-face/Poker-face&quot;,&quot;concurrent&quot;:&quot;/Lady-gaga-poker-face-lyrics&quot;},&quot;twitter_share_message&quot;:&quot;““Poker Face” is the second single from Lady Gaga’s debut studio album, The Fame, taking the crow…” —@Genius&quot;,&quot;is_image&quot;:false,&quot;ios_app_url&quot;:&quot;genius://referents/3491428&quot;,&quot;annotations&quot;:[{&quot;id&quot;:3491428,&quot;url&quot;:&quot;http://genius.com/3491428/Lady-gaga-poker-face/Poker-face&quot;,&quot;share_url&quot;:&quot;http://genius.com/3491428&quot;,&quot;body&quot;:{&quot;html&quot;:&quot;&lt;p&gt;“Poker Face” is the second single from &lt;a href=\&quot;http://genius.com/artists/Lady-gaga\&quot; data-api_path=\&quot;/artists/447\&quot;&gt;Lady Gaga&lt;/a&gt;’s debut studio album, &lt;a href=\&quot;http://genius.com/albums/Lady-gaga/The-fame\&quot; data-api_path=\&quot;/albums/17375\&quot;&gt;&lt;em&gt;The Fame&lt;/em&gt;&lt;/a&gt;, taking the crown for her most successful single alongside “&lt;a href=\&quot;http://genius.com/lady-gaga-just-dance-lyrics\&quot; data-api_path=\&quot;/songs/51012\&quot;&gt;Just Dance&lt;/a&gt;.” The official music video was released on October 22nd, 2008. (Watch it by pressing play above!)&lt;/p&gt;\n\n&lt;p&gt;Are the rules of sexual attraction akin to the rules of poker? Gaga asserts “Poker Face” is about bisexuality. &lt;a href=\&quot;http://www.nbcbayarea.com/entertainment/celebrity/Lady_GaGa_Entertains_Thousands_At_Palm_Springs_White_Party.html\&quot; rel=\&quot;nofollow\&quot;&gt;She described&lt;/a&gt; &lt;em&gt;poker face&lt;/em&gt; as the expression she pulls when she’s having sex with a man, but wishes she was having sex with a woman.&lt;/p&gt;\n\n&lt;p&gt;“Poker Face” reigns as one of the &lt;a href=\&quot;https://en.wikipedia.org/wiki/List_of_best-selling_singles\&quot; rel=\&quot;nofollow\&quot;&gt;best-selling singles of all time&lt;/a&gt;, with over 14 million copies sold. The song climbed to #1 in 20 countries, racking up over 7 million downloads to make it Gaga’s best selling digital single. The track won Gaga her first Grammy for &lt;a href=\&quot;https://www.grammy.com/artist/lady-gaga\&quot; rel=\&quot;nofollow\&quot;&gt;Best Dance Recording&lt;/a&gt; at the 52nd Grammy Awards, while it was also nominated for Song of the Year and Record of the Year.&lt;/p&gt;\n\n&lt;p&gt;&lt;img src=\&quot;https://images.rapgenius.com/4e782d851106c3f23df6864886f3a24a.400x400x1.jpg\&quot; alt=\&quot;\&quot; width=\&quot;400\&quot; height=\&quot;400\&quot; data-animated=\&quot;false\&quot;&gt;&lt;/p&gt;&quot;,&quot;markdown&quot;:&quot;\&quot;Poker Face\&quot; is the second single from [Lady Gaga](/artists/Lady-gaga)&#39;s debut studio album, [*The Fame*](http://genius.com/albums/Lady-gaga/The-fame), taking the crown for her most successful single alongside \&quot;[Just Dance](/lady-gaga-just-dance-lyrics).\&quot; The official music video was released on October 22nd, 2008. (Watch it by pressing play above!)\n\nAre the rules of sexual attraction akin to the rules of poker? Gaga asserts \&quot;Poker Face\&quot; is about bisexuality. [She described](http://www.nbcbayarea.com/entertainment/celebrity/Lady_GaGa_Entertains_Thousands_At_Palm_Springs_White_Party.html) *poker face* as the expression she pulls when she&#39;s having sex with a man, but wishes she was having sex with a woman.\n\n\&quot;Poker Face\&quot; reigns as one of the [best-selling singles of all time](https://en.wikipedia.org/wiki/List_of_best-selling_singles), with over 14 million copies sold. The song climbed to #1 in 20 countries, racking up over 7 million downloads to make it Gaga&#39;s best selling digital single. The track won Gaga her first Grammy for [Best Dance Recording](https://www.grammy.com/artist/lady-gaga) at the 52nd Grammy Awards, while it was also nominated for Song of the Year and Record of the Year.\n\nhttp://images.rapgenius.com/4e782d851106c3f23df6864886f3a24a.400x400x1.jpg&quot;},&quot;authors&quot;:[{&quot;user&quot;:{&quot;id&quot;:7,&quot;name&quot;:&quot;Maboo&quot;,&quot;avatar&quot;:{&quot;tiny&quot;:{&quot;url&quot;:&quot;https://s3.amazonaws.com/rapgenius/avatars/tiny/FPUgkjhRQyqsg9SfDfhx.jpg&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:16,&quot;height&quot;:16}},&quot;thumb&quot;:{&quot;url&quot;:&quot;https://s3.amazonaws.com/rapgenius/avatars/thumb/FPUgkjhRQyqsg9SfDfhx.jpg&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:32,&quot;height&quot;:32}},&quot;medium&quot;:{&quot;url&quot;:&quot;https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:300,&quot;height&quot;:400}}},&quot;url&quot;:&quot;http://genius.com/Maboo&quot;,&quot;login&quot;:&quot;Maboo&quot;,&quot;role_for_display&quot;:null,&quot;iq&quot;:370675.80857385,&quot;is_meme_verified&quot;:false,&quot;is_verified&quot;:false,&quot;about_me_summary&quot;:&quot;Interests: Art, Love, Beauty….\n\nHomeland: Iran (via San Fernando Valley)\n\nFavorite rapper: Gucci Mane\n\nFavorite whip: Audi (I’m a simple man….)\n\nFavorite rap line: http://rapgenius.com/18330\n\nPS check out my flows: http://genius.com/artists/Maboo&quot;},&quot;attribution&quot;:0.39682539682539686},{&quot;user&quot;:{&quot;id&quot;:263424,&quot;name&quot;:&quot;​darkdoomhoney&quot;,&quot;avatar&quot;:{&quot;tiny&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/tiny/1883d469a1a1b9d99a097f31e2dbe344&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:16,&quot;height&quot;:16}},&quot;thumb&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/thumb/1883d469a1a1b9d99a097f31e2dbe344&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:32,&quot;height&quot;:32}},&quot;medium&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/medium/1883d469a1a1b9d99a097f31e2dbe344&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:300,&quot;height&quot;:400}}},&quot;url&quot;:&quot;http://genius.com/darkdoomhoney&quot;,&quot;login&quot;:&quot;darkdoomhoney&quot;,&quot;role_for_display&quot;:&quot;moderator&quot;,&quot;iq&quot;:28547.6886734427,&quot;is_meme_verified&quot;:false,&quot;is_verified&quot;:false,&quot;about_me_summary&quot;:&quot;19-year old journalism student with a lot to say. The inner machinations of my mind are an enigma.\n\nFollow me on Last.fm, 8tracks, and Soundcloud.\n\nCheck out my Top 50 Songs of 2015.\n\n\n\n⠀⠀⠀⠀⠀Editored by Vesuvius 05-23-2015\n⠀⠀⠀⠀Modded by streetlights 08-30-2015\n\n\n\nmy editors\n\ntheglobalist – 09-04-2015\n\n\n\nmilestones\n\n10,000 Overall IQ 08-29-2015\n25,000 Overall IQ 12-29-2015\n10,000 Pop IQ 12-2015\n\n\n\npast shows\n\n12-14-2012 / marina + icona pop\n03-20-2014 / miley cyrus + icona pop\n10-09-2014 / lykke li\n02-28-2015 / rolling loud festival\n04-27-2015 / bad suns + kiev\n07-16-2015 / holychild + powers + evvy\n07-25-2015 / ryn weaver + sam dew\n09-21-2015 / the nbhd + bad suns + hunny\n10-14-2015 / walk the moon + holychild\n10-17-2015 / halsey + flor\n\nupcoming shows\n\n03-06-2015 / melanie martinez\n05-10-2015 / the 1975 + the japanese house&quot;},&quot;attribution&quot;:0.2592592592592593},{&quot;user&quot;:{&quot;id&quot;:1427756,&quot;name&quot;:&quot;​sereinik&quot;,&quot;avatar&quot;:{&quot;tiny&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/tiny/c8038919fd66253722dff5eb5d0dfe6f&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:16,&quot;height&quot;:16}},&quot;thumb&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/thumb/c8038919fd66253722dff5eb5d0dfe6f&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:32,&quot;height&quot;:32}},&quot;medium&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/medium/c8038919fd66253722dff5eb5d0dfe6f&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:300,&quot;height&quot;:400}}},&quot;url&quot;:&quot;http://genius.com/sereinik&quot;,&quot;login&quot;:&quot;sereinik&quot;,&quot;role_for_display&quot;:&quot;editor&quot;,&quot;iq&quot;:13361.4220595841,&quot;is_meme_verified&quot;:false,&quot;is_verified&quot;:false,&quot;about_me_summary&quot;:&quot;silence can be so loud it’s abrasive\n\n-\n\nunder pressure\n\n-\n\n\n\n-\n\nmade editor by DaveHowell on 7.23.15.&quot;},&quot;attribution&quot;:0.25396825396825395},{&quot;user&quot;:{&quot;id&quot;:326347,&quot;name&quot;:&quot;Dave Howell&quot;,&quot;avatar&quot;:{&quot;tiny&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/tiny/4c4d8e99fbb62bd4caa20bdc729b3ffe&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:16,&quot;height&quot;:16}},&quot;thumb&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/thumb/4c4d8e99fbb62bd4caa20bdc729b3ffe&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:32,&quot;height&quot;:32}},&quot;medium&quot;:{&quot;url&quot;:&quot;https://images.rapgenius.com/avatars/medium/4c4d8e99fbb62bd4caa20bdc729b3ffe&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:300,&quot;height&quot;:400}}},&quot;url&quot;:&quot;http://genius.com/DaveHowell&quot;,&quot;login&quot;:&quot;DaveHowell&quot;,&quot;role_for_display&quot;:&quot;moderator&quot;,&quot;iq&quot;:55311.2448123884,&quot;is_meme_verified&quot;:false,&quot;is_verified&quot;:false,&quot;about_me_summary&quot;:&quot;Former professional musician, current father of multiple multiples. He can be regularly heard saying things like,“We have one album available on Spotify”, and “Turn off the PlayStation and go back to bed!”.&quot;},&quot;attribution&quot;:0.08994708994708996}],&quot;pinned&quot;:false,&quot;community&quot;:true,&quot;verified&quot;:false,&quot;verified_by&quot;:null,&quot;votes_total&quot;:3,&quot;current_user_metadata&quot;:{&quot;interactions&quot;:{&quot;vote&quot;:null,&quot;cosign&quot;:false,&quot;pyong&quot;:false},&quot;permissions&quot;:[&quot;create_comment&quot;]},&quot;state&quot;:&quot;accepted&quot;,&quot;comment_count&quot;:0,&quot;twitter_share_message&quot;:&quot;““Poker Face” is the second single from Lady Gaga’s debut studio album, The Fame, taking the crown for he…” —@Genius&quot;,&quot;embed_content&quot;:&quot;&lt;blockquote class=&#39;rg_standalone_container&#39; data-src=&#39;//genius.com/annotations/3491428/standalone_embed&#39;&gt;&lt;a href=&#39;http://genius.com/3491428/Lady-gaga-poker-face/Poker-face&#39;&gt;Poker Face&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;http://genius.com/Lady-gaga-poker-face-lyrics&#39;&gt;&amp;#8213; Lady Gaga – Poker Face&lt;/a&gt;&lt;/blockquote&gt;&lt;script async crossorigin src=&#39;//genius.com/annotations/load_standalone_embeds.js&#39;&gt;&lt;/script&gt;&quot;,&quot;referent_id&quot;:3491428,&quot;created_at&quot;:1284708464,&quot;created_by&quot;:{&quot;id&quot;:7,&quot;name&quot;:&quot;Maboo&quot;,&quot;avatar&quot;:{&quot;tiny&quot;:{&quot;url&quot;:&quot;https://s3.amazonaws.com/rapgenius/avatars/tiny/FPUgkjhRQyqsg9SfDfhx.jpg&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:16,&quot;height&quot;:16}},&quot;thumb&quot;:{&quot;url&quot;:&quot;https://s3.amazonaws.com/rapgenius/avatars/thumb/FPUgkjhRQyqsg9SfDfhx.jpg&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:32,&quot;height&quot;:32}},&quot;medium&quot;:{&quot;url&quot;:&quot;https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg&quot;,&quot;bounding_box&quot;:{&quot;width&quot;:300,&quot;height&quot;:400}}},&quot;url&quot;:&quot;http://genius.com/Maboo&quot;,&quot;login&quot;:&quot;Maboo&quot;,&quot;role_for_display&quot;:null,&quot;iq&quot;:370675.80857385,&quot;is_meme_verified&quot;:false,&quot;is_verified&quot;:false,&quot;about_me_summary&quot;:&quot;Interests: Art, Love, Beauty….\n\nHomeland: Iran (via San Fernando Valley)\n\nFavorite rapper: Gucci Mane\n\nFavorite whip: Audi (I’m a simple man….)\n\nFavorite rap line: http://rapgenius.com/18330\n\nPS check out my flows: http://genius.com/artists/Maboo&quot;},&quot;accepted_by&quot;:null,&quot;pyongs_count&quot;:null,&quot;needs_exegesis&quot;:false,&quot;proposed_edit_count&quot;:0,&quot;top_comment&quot;:null,&quot;cosigned_by&quot;:[]}]},&quot;featured_artists&quot;:[],&quot;producer_artists&quot;:[{&quot;id&quot;:29767,&quot;name&quot;:&quot;RedOne&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Redone&quot;,&quot;image_url&quot;:&quot;https://assets.rapgenius.com/images/default_cover_art.png?1454102891&quot;,&quot;is_verified&quot;:false}],&quot;writer_artists&quot;:[],&quot;engineer_artists&quot;:[],&quot;musician_artists&quot;:[],&quot;verified_annotations_by&quot;:[],&quot;verified_lyrics_by&quot;:[],&quot;media&quot;:[{&quot;type&quot;:&quot;video&quot;,&quot;provider&quot;:&quot;youtube&quot;,&quot;url&quot;:&quot;http://www.youtube.com/watch?v=bESGLojNYSo&quot;,&quot;start&quot;:0}],&quot;api_path&quot;:&quot;/songs/1316&quot;,&quot;current_user_metadata&quot;:{&quot;interactions&quot;:{&quot;pyong&quot;:false,&quot;following&quot;:false},&quot;relationships&quot;:{},&quot;permissions&quot;:[&quot;see_pageviews&quot;,&quot;create_comment&quot;]},&quot;stats&quot;:{&quot;hot&quot;:false,&quot;pageviews&quot;:32354,&quot;contributors&quot;:33,&quot;iq_earners&quot;:33,&quot;transcribers&quot;:0,&quot;accepted_annotations&quot;:17,&quot;unreviewed_annotations&quot;:0,&quot;verified_annotations&quot;:0},&quot;album&quot;:{&quot;id&quot;:17375,&quot;name&quot;:&quot;The Fame&quot;,&quot;url&quot;:&quot;http://genius.com/albums/Lady-gaga/The-fame&quot;,&quot;cover_art_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;api_path&quot;:&quot;/albums/17375&quot;,&quot;artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;name_with_artist&quot;:&quot;The Fame (artist: Lady Gaga)&quot;,&quot;cover_art_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;},&quot;lyrics&quot;:{&quot;html&quot;:&quot;&lt;p&gt;[Intro]&lt;br&gt;\n&lt;a href=\&quot;/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah\&quot; data-id=\&quot;38600\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Mum mum mum mah&lt;br&gt;\nMum mum mum mah&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Verse 1]&lt;br&gt;\n&lt;a href=\&quot;/2601474/Lady-gaga-poker-face/I-wanna-hold-em-like-they-do-in-texas-please\&quot; data-id=\&quot;2601474\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;I wanna hold &#39;em like they do in Texas, please&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/2601498/Lady-gaga-poker-face/Fold-em\&quot; data-id=\&quot;2601498\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Fold &#39;em&lt;/a&gt;, &lt;a href=\&quot;/62214/Lady-gaga-poker-face/Let-em-hit-me-raise-it-baby-stay-with-me-i-love-it\&quot; data-id=\&quot;62214\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;let &#39;em hit me, raise it; baby, stay with me (I love it)&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/38472/Lady-gaga-poker-face/Lovegame-intuition-play-the-cards-with-spades-to-start-and-after-hes-been-hooked-ill-play-the-one-thats-on-his-heart\&quot; data-id=\&quot;38472\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Lovegame intuition, play the cards with spades to start&lt;br&gt;\nAnd after he&#39;s been hooked, I&#39;ll play the one that&#39;s on his heart&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Pre-Chorus] [2x]&lt;br&gt;\n&lt;a href=\&quot;/2601698/Lady-gaga-poker-face/Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-ill-get-him-hot-show-him-what-ive-got\&quot; data-id=\&quot;2601698\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Oh, oh-oh, oh, oh&lt;br&gt;\nOh oh oh oh, oh oh&lt;br&gt;\nI&#39;ll get him hot, show him what I&#39;ve got&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Chorus] [2x]&lt;br&gt;\n&lt;a href=\&quot;/1878825/Lady-gaga-poker-face/Cant-read-my-cant-read-my-no-he-cant-read-my-poker-face\&quot; data-id=\&quot;1878825\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Can&#39;t read my, can&#39;t read my&lt;br&gt;\nNo he can&#39;t read my poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/1878828/Lady-gaga-poker-face/Shes-got-me-like-nobody\&quot; data-id=\&quot;1878828\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(She’s got me like nobody)&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Post-Chorus]&lt;br&gt;\n&lt;a href=\&quot;/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face\&quot; data-id=\&quot;2620243\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Po-po-po-poker face, po-po-poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah\&quot; data-id=\&quot;38600\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(Mum mum mum mah)&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Verse 2]&lt;br&gt;\n&lt;a href=\&quot;/336012/Lady-gaga-poker-face/I-wanna-roll-with-him-a-hard-pair-we-will-be-a-little-gambling-is-fun-when-youre-with-me\&quot; data-id=\&quot;336012\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;I wanna roll with him, a hard pair we will be&lt;br&gt;\nA little gambling is fun when you&#39;re with me&lt;/a&gt; (I love it)&lt;br&gt;\n&lt;a href=\&quot;/38601/Lady-gaga-poker-face/Russian-roulette-is-not-the-same-without-a-gun\&quot; data-id=\&quot;38601\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Russian roulette is not the same without a gun&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/7509646/Lady-gaga-poker-face/And-baby-when-its-love-if-its-not-rough-it-isnt-fun-fun\&quot; data-id=\&quot;7509646\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;And baby, when it&#39;s love, if it&#39;s not rough, it isn&#39;t fun (fun)&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Pre-Chorus] [2x]&lt;br&gt;\n&lt;a href=\&quot;/2601698/Lady-gaga-poker-face/Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-ill-get-him-hot-show-him-what-ive-got\&quot; data-id=\&quot;2601698\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Oh, oh-oh, oh, oh&lt;br&gt;\nOh oh oh oh, oh oh&lt;br&gt;\nI&#39;ll get him hot, show him what I&#39;ve got&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Chorus] [2x]&lt;br&gt;\n&lt;a href=\&quot;/1878825/Lady-gaga-poker-face/Cant-read-my-cant-read-my-no-he-cant-read-my-poker-face\&quot; data-id=\&quot;1878825\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Can&#39;t read my, can&#39;t read my&lt;br&gt;\nNo he can&#39;t read my poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/1878828/Lady-gaga-poker-face/Shes-got-me-like-nobody\&quot; data-id=\&quot;1878828\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(She’s got me like nobody)&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Post-Chorus] [2x]&lt;br&gt;\n&lt;a href=\&quot;/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face\&quot; data-id=\&quot;2620243\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Po-po-po-poker face, po-po-poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah\&quot; data-id=\&quot;38600\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(Mum mum mum mah)&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Bridge]&lt;br&gt;\n&lt;a href=\&quot;/886060/Lady-gaga-poker-face/I-wont-tell-you-that-i-love-you-kiss-or-hug-you\&quot; data-id=\&quot;886060\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;I won&#39;t tell you that I love you&lt;br&gt;\nKiss or hug you&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/53329/Lady-gaga-poker-face/Cause-im-bluffin-with-my-muffin-im-not-lying-im-just-stunnin-with-my-love-glue-gunnin\&quot; data-id=\&quot;53329\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;’Cause I&#39;m bluffin&#39; with my muffin&lt;br&gt;\nI&#39;m not lying, I&#39;m just stunnin&#39; with my love-glue-gunnin&#39;&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/886062/Lady-gaga-poker-face/Just-like-a-chick-in-the-casino-take-your-bank-before-i-pay-you-out-i-promise-this-promise-this\&quot; data-id=\&quot;886062\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Just like a chick in the casino&lt;br&gt;\nTake your bank before I pay you out&lt;br&gt;\nI promise this, promise this&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/62216/Lady-gaga-poker-face/Check-this-hand-cause-im-marvelous\&quot; data-id=\&quot;62216\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Check this hand ’cause I&#39;m marvelous&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Chorus] [6x]&lt;br&gt;\n&lt;a href=\&quot;/1878825/Lady-gaga-poker-face/Cant-read-my-cant-read-my-no-he-cant-read-my-poker-face\&quot; data-id=\&quot;1878825\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Can&#39;t read my, can&#39;t read my&lt;br&gt;\nNo he can&#39;t read my poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/1878828/Lady-gaga-poker-face/Shes-got-me-like-nobody\&quot; data-id=\&quot;1878828\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(She’s got me like nobody)&lt;/a&gt;&lt;br&gt;\n&lt;br&gt;\n[Post-Chorus - Variation]&lt;br&gt;\n&lt;a href=\&quot;/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face\&quot; data-id=\&quot;2620243\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Po-po-po-poker face, po-po-poker face&lt;br&gt;\nPo-po-po-poker face, po-po-poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/1878828/Lady-gaga-poker-face/Shes-got-me-like-nobody\&quot; data-id=\&quot;1878828\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(She’s got me like nobody)&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face\&quot; data-id=\&quot;2620243\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Po-po-po-poker face, po-po-poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah\&quot; data-id=\&quot;38600\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(Mum mum mum mah)&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face\&quot; data-id=\&quot;2620243\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Po-po-po-poker face, po-po-poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah\&quot; data-id=\&quot;38600\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(Mum mum mum mah)&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face\&quot; data-id=\&quot;2620243\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Po-po-po-poker face, po-po-poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah\&quot; data-id=\&quot;38600\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(Mum mum mum mah)&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face\&quot; data-id=\&quot;2620243\&quot; class=\&quot;has_comments\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;Po-po-po-poker face, po-po-poker face&lt;/a&gt;&lt;br&gt;\n&lt;a href=\&quot;/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah\&quot; data-id=\&quot;38600\&quot; data-editorial-state=\&quot;accepted\&quot; data-classification=\&quot;accepted\&quot;&gt;(Mum mum mum mah)&lt;/a&gt;&lt;/p&gt;\n\n&quot;,&quot;markdown&quot;:null}}}"></preload-content></preload>
+
+  <preload ng-non-bindable=""><preload-content data-preload_data="{&quot;primary_album_tracks&quot;:[{&quot;number&quot;:1,&quot;song&quot;:{&quot;id&quot;:51012,&quot;title&quot;:&quot;Just Dance&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-just-dance-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-just-dance-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:23,&quot;updated_by_human_at&quot;:1446941420,&quot;lyrics_updated_at&quot;:1444456120,&quot;instrumental&quot;:false}},{&quot;number&quot;:2,&quot;song&quot;:{&quot;id&quot;:5715,&quot;title&quot;:&quot;LoveGame&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-lovegame-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-lovegame-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:6,&quot;updated_by_human_at&quot;:1440122070,&quot;lyrics_updated_at&quot;:1440122070,&quot;instrumental&quot;:false}},{&quot;number&quot;:3,&quot;song&quot;:{&quot;id&quot;:153998,&quot;title&quot;:&quot;Paparazzi&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-paparazzi-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-paparazzi-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:13,&quot;updated_by_human_at&quot;:1441141323,&quot;lyrics_updated_at&quot;:1441141323,&quot;instrumental&quot;:false}},{&quot;number&quot;:4,&quot;song&quot;:{&quot;id&quot;:80382,&quot;title&quot;:&quot;Beautiful, Dirty, Rich&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-beautiful-dirty-rich-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-beautiful-dirty-rich-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:2,&quot;updated_by_human_at&quot;:1440341577,&quot;lyrics_updated_at&quot;:1440341565,&quot;instrumental&quot;:false}},{&quot;number&quot;:5,&quot;song&quot;:{&quot;id&quot;:80381,&quot;title&quot;:&quot;Eh, Eh (Nothing Else I Can Say)&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-eh-eh-nothing-else-i-can-say-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-eh-eh-nothing-else-i-can-say-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:1,&quot;updated_by_human_at&quot;:1437773735,&quot;lyrics_updated_at&quot;:1436850720,&quot;instrumental&quot;:false}},{&quot;number&quot;:6,&quot;song&quot;:{&quot;id&quot;:1316,&quot;title&quot;:&quot;Poker Face&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-poker-face-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-poker-face-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/1c315252efd43e4549b57322c7d3f236.180x180x1.png&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:32,&quot;updated_by_human_at&quot;:1440930068,&quot;lyrics_updated_at&quot;:1440123535,&quot;instrumental&quot;:false}},{&quot;number&quot;:7,&quot;song&quot;:{&quot;id&quot;:80383,&quot;title&quot;:&quot;The Fame&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-the-fame-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-the-fame-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:1,&quot;updated_by_human_at&quot;:1437774021,&quot;lyrics_updated_at&quot;:1437278514,&quot;instrumental&quot;:false}},{&quot;number&quot;:8,&quot;song&quot;:{&quot;id&quot;:80384,&quot;title&quot;:&quot;Money Honey&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-money-honey-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-money-honey-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:null,&quot;updated_by_human_at&quot;:1435287604,&quot;lyrics_updated_at&quot;:1435287357,&quot;instrumental&quot;:false}},{&quot;number&quot;:9,&quot;song&quot;:{&quot;id&quot;:79939,&quot;title&quot;:&quot;Starstruck&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-starstruck-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-starstruck-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:null,&quot;updated_by_human_at&quot;:1443628373,&quot;lyrics_updated_at&quot;:1443628374,&quot;instrumental&quot;:false}},{&quot;number&quot;:10,&quot;song&quot;:{&quot;id&quot;:54890,&quot;title&quot;:&quot;Boys Boys Boys&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-boys-boys-boys-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-boys-boys-boys-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:1,&quot;updated_by_human_at&quot;:1447592577,&quot;lyrics_updated_at&quot;:1434253612,&quot;instrumental&quot;:false}},{&quot;number&quot;:11,&quot;song&quot;:{&quot;id&quot;:74306,&quot;title&quot;:&quot;Paper Gangsta&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-paper-gangsta-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-paper-gangsta-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:6,&quot;updated_by_human_at&quot;:1438112417,&quot;lyrics_updated_at&quot;:1437325941,&quot;instrumental&quot;:false}},{&quot;number&quot;:12,&quot;song&quot;:{&quot;id&quot;:80385,&quot;title&quot;:&quot;Brown Eyes&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-brown-eyes-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-brown-eyes-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:5,&quot;updated_by_human_at&quot;:1447591908,&quot;lyrics_updated_at&quot;:1434253500,&quot;instrumental&quot;:false}},{&quot;number&quot;:13,&quot;song&quot;:{&quot;id&quot;:80387,&quot;title&quot;:&quot;I Like It Rough&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-i-like-it-rough-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-i-like-it-rough-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:3,&quot;updated_by_human_at&quot;:1438618218,&quot;lyrics_updated_at&quot;:1434252889,&quot;instrumental&quot;:false}},{&quot;number&quot;:14,&quot;song&quot;:{&quot;id&quot;:80386,&quot;title&quot;:&quot;Summerboy&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-summerboy-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-summerboy-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:3,&quot;updated_by_human_at&quot;:1450744877,&quot;lyrics_updated_at&quot;:1450744877,&quot;instrumental&quot;:false}},{&quot;number&quot;:15,&quot;song&quot;:{&quot;id&quot;:195749,&quot;title&quot;:&quot;Disco Heaven&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-disco-heaven-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-disco-heaven-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:1,&quot;updated_by_human_at&quot;:1439987150,&quot;lyrics_updated_at&quot;:1439987147,&quot;instrumental&quot;:false}},{&quot;number&quot;:16,&quot;song&quot;:{&quot;id&quot;:80379,&quot;title&quot;:&quot;Again Again&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-again-again-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-again-again-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:null,&quot;updated_by_human_at&quot;:1438649193,&quot;lyrics_updated_at&quot;:1425616397,&quot;instrumental&quot;:false}},{&quot;number&quot;:17,&quot;song&quot;:{&quot;id&quot;:80388,&quot;title&quot;:&quot;Retro Dance Freak&quot;,&quot;url&quot;:&quot;http://genius.com/Lady-gaga-retro-dance-freak-lyrics&quot;,&quot;path&quot;:&quot;/Lady-gaga-retro-dance-freak-lyrics&quot;,&quot;header_image_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg&quot;,&quot;header_image_thumbnail_url&quot;:&quot;https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.300x297x1.jpg&quot;,&quot;primary_artist&quot;:{&quot;id&quot;:447,&quot;name&quot;:&quot;Lady Gaga&quot;,&quot;url&quot;:&quot;http://genius.com/artists/Lady-gaga&quot;,&quot;image_url&quot;:&quot;https://images.rapgenius.com/a5c6e9ef4a13f7a742b46a69b318b02d.787x1000x1.jpg&quot;,&quot;is_verified&quot;:false},&quot;annotation_count&quot;:1,&quot;pyongs_count&quot;:1,&quot;updated_by_human_at&quot;:1438649426,&quot;lyrics_updated_at&quot;:1396730889,&quot;instrumental&quot;:false}}]}"></preload-content></preload>
+
+  <div class="song_header" ng-class="{'song_header--fade_in_background': song.header_image_url}" clipped-background-image="song.header_image_url" get-inner-height-as="header_height">
+    <div class="song_header-inner song_page_grid">
+      <div class="song_page_grid-column_span song_page_grid-column_span--primary">
+        <div class="song_header-primary_info" ng-mouseover="song_ctrl.show_song_info = true">
+          <h1 class="song_header-primary_info-title" ng-bind-html="song.title">Poker Face</h1>
+          <h2><a href="/artists/Lady-gaga" class="song_header-primary_info-primary_artist" ng-bind="song.primary_artist.name" ng-href="{{song.primary_artist.url}}">Lady Gaga</a></h2>
+          <additional-artists artists="song.featured_artists" label="Featuring">
+
+
+</additional-artists>
+
+          <song-primary-album album="song.album" ng-if="song.album">
+
+    <h3 class="song_info_line">
+      <span class="text_label">Album</span>
+      <a href="http://genius.com/albums/Lady-gaga/The-fame">The Fame</a>
+    </h3>
+
+</song-primary-album>
+
+        </div>
+        <song-verified-artists annotations-by="song.verified_annotations_by" lyrics-by="song.verified_lyrics_by" ng-cloak></song-verified-artists>
+      </div>
+    </div>
+  </div>
+
+  <div class="song_body">
+    <div class="song_page_grid">
+      <div class="song_page_grid-column_span song_page_grid-column_span--primary">
+        <div class="song_body-lyrics">
+
+            <h2 class="text_label text_label--gray u-top_margin">Poker Face Lyrics</h2>
+
+          ,
+            <p>[Intro]<br>
+<a href="/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah" data-id="38600" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38600" classification="accepted" image="false" pending-comments="false">Mum mum mum mah<br>
+Mum mum mum mah</a><br>
+<br>
+[Verse 1]<br>
+<a href="/2601474/Lady-gaga-poker-face/I-wanna-hold-em-like-they-do-in-texas-please" data-id="2601474" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2601474" classification="accepted" image="false" pending-comments="true">I wanna hold 'em like they do in Texas, please</a><br>
+<a href="/2601498/Lady-gaga-poker-face/Fold-em" data-id="2601498" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2601498" classification="accepted" image="false" pending-comments="false">Fold 'em</a>, <a href="/62214/Lady-gaga-poker-face/Let-em-hit-me-raise-it-baby-stay-with-me-i-love-it" data-id="62214" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="62214" classification="accepted" image="false" pending-comments="false">let 'em hit me, raise it; baby, stay with me (I love it)</a><br>
+<a href="/38472/Lady-gaga-poker-face/Lovegame-intuition-play-the-cards-with-spades-to-start-and-after-hes-been-hooked-ill-play-the-one-thats-on-his-heart" data-id="38472" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38472" classification="accepted" image="false" pending-comments="false">Lovegame intuition, play the cards with spades to start<br>
+And after he's been hooked, I'll play the one that's on his heart</a><br>
+<br>
+[Pre-Chorus] [2x]<br>
+<a href="/2601698/Lady-gaga-poker-face/Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-ill-get-him-hot-show-him-what-ive-got" data-id="2601698" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2601698" classification="accepted" image="false" pending-comments="false">Oh, oh-oh, oh, oh<br>
+Oh oh oh oh, oh oh<br>
+I'll get him hot, show him what I've got</a><br>
+<br>
+[Chorus] [2x]<br>
+<a href="/1878825/Lady-gaga-poker-face/Cant-read-my-cant-read-my-no-he-cant-read-my-poker-face" data-id="1878825" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="1878825" classification="accepted" image="false" pending-comments="true">Can't read my, can't read my<br>
+No he can't read my poker face</a><br>
+<a href="/1878828/Lady-gaga-poker-face/Shes-got-me-like-nobody" data-id="1878828" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="1878828" classification="accepted" image="false" pending-comments="false">(She’s got me like nobody)</a><br>
+<br>
+[Post-Chorus]<br>
+<a href="/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face" data-id="2620243" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2620243" classification="accepted" image="false" pending-comments="true">Po-po-po-poker face, po-po-poker face</a><br>
+<a href="/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah" data-id="38600" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38600" classification="accepted" image="false" pending-comments="false">(Mum mum mum mah)</a><br>
+<br>
+[Verse 2]<br>
+<a href="/336012/Lady-gaga-poker-face/I-wanna-roll-with-him-a-hard-pair-we-will-be-a-little-gambling-is-fun-when-youre-with-me" data-id="336012" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="336012" classification="accepted" image="false" pending-comments="false">I wanna roll with him, a hard pair we will be<br>
+A little gambling is fun when you're with me</a> (I love it)<br>
+<a href="/38601/Lady-gaga-poker-face/Russian-roulette-is-not-the-same-without-a-gun" data-id="38601" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38601" classification="accepted" image="false" pending-comments="true">Russian roulette is not the same without a gun</a><br>
+<a href="/7509646/Lady-gaga-poker-face/And-baby-when-its-love-if-its-not-rough-it-isnt-fun-fun" data-id="7509646" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="7509646" classification="accepted" image="false" pending-comments="false">And baby, when it's love, if it's not rough, it isn't fun (fun)</a><br>
+<br>
+[Pre-Chorus] [2x]<br>
+<a href="/2601698/Lady-gaga-poker-face/Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-ill-get-him-hot-show-him-what-ive-got" data-id="2601698" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2601698" classification="accepted" image="false" pending-comments="false">Oh, oh-oh, oh, oh<br>
+Oh oh oh oh, oh oh<br>
+I'll get him hot, show him what I've got</a><br>
+<br>
+[Chorus] [2x]<br>
+<a href="/1878825/Lady-gaga-poker-face/Cant-read-my-cant-read-my-no-he-cant-read-my-poker-face" data-id="1878825" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="1878825" classification="accepted" image="false" pending-comments="true">Can't read my, can't read my<br>
+No he can't read my poker face</a><br>
+<a href="/1878828/Lady-gaga-poker-face/Shes-got-me-like-nobody" data-id="1878828" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="1878828" classification="accepted" image="false" pending-comments="false">(She’s got me like nobody)</a><br>
+<br>
+[Post-Chorus] [2x]<br>
+<a href="/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face" data-id="2620243" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2620243" classification="accepted" image="false" pending-comments="true">Po-po-po-poker face, po-po-poker face</a><br>
+<a href="/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah" data-id="38600" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38600" classification="accepted" image="false" pending-comments="false">(Mum mum mum mah)</a><br>
+<br>
+[Bridge]<br>
+<a href="/886060/Lady-gaga-poker-face/I-wont-tell-you-that-i-love-you-kiss-or-hug-you" data-id="886060" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="886060" classification="accepted" image="false" pending-comments="false">I won't tell you that I love you<br>
+Kiss or hug you</a><br>
+<a href="/53329/Lady-gaga-poker-face/Cause-im-bluffin-with-my-muffin-im-not-lying-im-just-stunnin-with-my-love-glue-gunnin" data-id="53329" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="53329" classification="accepted" image="false" pending-comments="true">’Cause I'm bluffin' with my muffin<br>
+I'm not lying, I'm just stunnin' with my love-glue-gunnin'</a><br>
+<a href="/886062/Lady-gaga-poker-face/Just-like-a-chick-in-the-casino-take-your-bank-before-i-pay-you-out-i-promise-this-promise-this" data-id="886062" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="886062" classification="accepted" image="false" pending-comments="false">Just like a chick in the casino<br>
+Take your bank before I pay you out<br>
+I promise this, promise this</a><br>
+<a href="/62216/Lady-gaga-poker-face/Check-this-hand-cause-im-marvelous" data-id="62216" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="62216" classification="accepted" image="false" pending-comments="false">Check this hand ’cause I'm marvelous</a><br>
+<br>
+[Chorus] [6x]<br>
+<a href="/1878825/Lady-gaga-poker-face/Cant-read-my-cant-read-my-no-he-cant-read-my-poker-face" data-id="1878825" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="1878825" classification="accepted" image="false" pending-comments="true">Can't read my, can't read my<br>
+No he can't read my poker face</a><br>
+<a href="/1878828/Lady-gaga-poker-face/Shes-got-me-like-nobody" data-id="1878828" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="1878828" classification="accepted" image="false" pending-comments="false">(She’s got me like nobody)</a><br>
+<br>
+[Post-Chorus - Variation]<br>
+<a href="/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face" data-id="2620243" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2620243" classification="accepted" image="false" pending-comments="true">Po-po-po-poker face, po-po-poker face<br>
+Po-po-po-poker face, po-po-poker face</a><br>
+<a href="/1878828/Lady-gaga-poker-face/Shes-got-me-like-nobody" data-id="1878828" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="1878828" classification="accepted" image="false" pending-comments="false">(She’s got me like nobody)</a><br>
+<a href="/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face" data-id="2620243" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2620243" classification="accepted" image="false" pending-comments="true">Po-po-po-poker face, po-po-poker face</a><br>
+<a href="/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah" data-id="38600" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38600" classification="accepted" image="false" pending-comments="false">(Mum mum mum mah)</a><br>
+<a href="/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face" data-id="2620243" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2620243" classification="accepted" image="false" pending-comments="true">Po-po-po-poker face, po-po-poker face</a><br>
+<a href="/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah" data-id="38600" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38600" classification="accepted" image="false" pending-comments="false">(Mum mum mum mah)</a><br>
+<a href="/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face" data-id="2620243" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2620243" classification="accepted" image="false" pending-comments="true">Po-po-po-poker face, po-po-poker face</a><br>
+<a href="/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah" data-id="38600" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38600" classification="accepted" image="false" pending-comments="false">(Mum mum mum mah)</a><br>
+<a href="/2620243/Lady-gaga-poker-face/Po-po-po-poker-face-po-po-poker-face" data-id="2620243" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="2620243" classification="accepted" image="false" pending-comments="true">Po-po-po-poker face, po-po-poker face</a><br>
+<a href="/38600/Lady-gaga-poker-face/Mum-mum-mum-mah-mum-mum-mum-mah" data-id="38600" class="referent" ng-click="open()" prevent-default-click="" annotation-fragment="38600" classification="accepted" image="false" pending-comments="false">(Mum mum mum mah)</a></p>
+
+
+          ,
+
+          <share-buttons song="song"></share-buttons>
+          <div class="u-xx_large_vertical_margins">
+            <comments type="songs" commentable="song" auto="true"></comments>
+          </div>
+        </div>
+      </div>
+
+      <div class="song_page_grid-column_span song_page_grid-column_span--secondary">
+        <div class="song_page_grid-column_span-initial_content" ng-if="::false">
+          <div class="song_art clipped_background_image"></div>
+          <div class="song_metadata u-xx_large_bottom_margin"></div>
+          <div ng-non-bindable>
+            <span class="text_label">
+              About “Poker Face”
+            </span>
+            <div class="rich_text_formatting">
+              <p>“Poker Face” is the second single from <a href="http://genius.com/artists/Lady-gaga">Lady Gaga</a>’s debut studio album, <a href="http://genius.com/albums/Lady-gaga/The-fame"><em>The Fame</em></a>, taking the crown for her most successful single alongside “<a href="http://genius.com/lady-gaga-just-dance-lyrics">Just Dance</a>.” The official music video was released on October 22nd, 2008. (Watch it by pressing play above!)</p>
+
+<p>Are the rules of sexual attraction akin to the rules of poker? Gaga asserts “Poker Face” is about bisexuality. <a href="http://www.nbcbayarea.com/entertainment/celebrity/Lady_GaGa_Entertains_Thousands_At_Palm_Springs_White_Party.html" rel="nofollow">She described</a> <em>poker face</em> as the expression she pulls when she’s having sex with a man, but wishes she was having sex with a woman.</p>
+
+<p>“Poker Face” reigns as one of the <a href="https://en.wikipedia.org/wiki/List_of_best-selling_singles" rel="nofollow">best-selling singles of all time</a>, with over 14 million copies sold. The song climbed to #1 in 20 countries, racking up over 7 million downloads to make it Gaga’s best selling digital single. The track won Gaga her first Grammy for <a href="https://www.grammy.com/artist/lady-gaga" rel="nofollow">Best Dance Recording</a> at the 52nd Grammy Awards, while it was also nominated for Song of the Year and Record of the Year.</p>
+
+<p><img src="https://images.rapgenius.com/4e782d851106c3f23df6864886f3a24a.400x400x1.jpg" alt="" width="400" height="400" data-animated="false"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="song_page_grid-column_span-initial_content">
+          <song-art></song-art>
+          <div ng-show="initial_sidebar_content_showing()">
+            <div class="show_tiny_edit_button_on_hover u-xx_large_bottom_margin">
+              <song-metadata song="song" ng-cloak></song-metadata>
+
+              <div class="song_status" ng-cloak>
+                <tooltip menu="false" icon="eye_cross.svg" header="Hidden" ng-if="song.hidden">
+                  This page is accessible to:
+                  <ul class="u-bullet_list">
+                    <li>Verified artists on the song</li>
+                    <li ng-repeat="role in song.viewable_by_roles" ng-bind="'role.types.' + role | i18n:{count:2, defaultValue: role}"></li>
+                  </ul>
+                </tooltip>
+                <tooltip menu="false" icon="lock.svg" header="Locked" ng-if="song.published"><p>This song has been locked and is considered "done". You need <strong>600 IQ</strong> to add annotations to locked songs.</p>
+<p>If you spot a mistake or have something to add, <a href="https://assets.rapgenius.com/images/leave_a_suggestion.png?1454102891">add a suggestion</a></p>
+</tooltip>
+                <tooltip menu="true" header="Admin" ng-show="song_ctrl.has_admin_items" ng-if="user_signed_in"><song-admin-menu has-admin-items="song_ctrl.has_admin_items"></song-admin-menu></tooltip>
+              </div>
+
+              <div class="tiny_edit_button" ng-click="song_ctrl.show_metadata_form_sections = {album_date_tags: true}" ng-if="can_perform('edit_anything')" stop-propagation="click"><genius-svg src="pencil.svg" svg-class="tiny_edit_button-svg"></genius-svg></div>
+            </div>
+
+            <description-referent ng-cloak object="song.description_annotation" referent-registry="referent_registry"></description-referent>
+
+            <div class="expanded_song_info u-xx_large_vertical_margins" ng-if="song_ctrl.has_track_info()" ng-cloak>
+              <div class="text_label u-x_small_bottom_margin">Track Info</div>
+              <additional-artists artists="song.producer_artists" label="Produced By">
+
+
+    <h3 class="song_header-primary_info-additional_data" ng-non-bindable>
+      <span class="text_label">Produced By</span>
+
+
+        <a href="/artists/Redone">RedOne</a>
+
+    </h3>
+
+</additional-artists>
+
+              <additional-artists artists="song.writer_artists" label="Written By">
+
+
+</additional-artists>
+
+              <additional-artists artists="song.musician_artists" label="Appearance By">
+
+
+</additional-artists>
+
+              <additional-artists artists="song.engineer_artists" label="Engineered By">
+
+
+</additional-artists>
+
+              <release-date date="song.release_date">
+
+    <h3 class="song_header-primary_info-additional_data">
+      <span class="text_label">Release Date</span> September 26, 2008
+    </h3>
+
+</release-date>
+
+            </div>
+
+
+              <div class="u-xx_large_vertical_margins">
+                <div class="primary_album u-bottom_margin" ng-non-bindable>
+  <a href="http://genius.com/albums/Lady-gaga/The-fame" class="primary_album-album_art" title="The Fame">
+    <img alt="Dfa2e25d3e05cc396179c570211317f6" src="https://images.rapgenius.com/dfa2e25d3e05cc396179c570211317f6.1000x990x1.jpg" />
+  </a>
+  <div class="primary_album-info">
+    <a href="http://genius.com/albums/Lady-gaga/The-fame" class="primary_album-info-title" title="The Fame">The Fame</a>
+    <a href="http://genius.com/artists/Lady-gaga" class="primary_album-info-artist" title="The Fame">Lady Gaga</a>
+  </div>
+</div>
+
+                <div class="track_listing track_listing--columns" ng-non-bindable>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-just-dance-lyrics" class="track_listing-track" title="Just Dance">
+
+            <span class="track_listing-track_number">1.&nbsp;&nbsp;</span>
+
+          Just Dance
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-lovegame-lyrics" class="track_listing-track" title="LoveGame">
+
+            <span class="track_listing-track_number">2.&nbsp;&nbsp;</span>
+
+          LoveGame
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-paparazzi-lyrics" class="track_listing-track" title="Paparazzi">
+
+            <span class="track_listing-track_number">3.&nbsp;&nbsp;</span>
+
+          Paparazzi
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-beautiful-dirty-rich-lyrics" class="track_listing-track" title="Beautiful, Dirty, Rich">
+
+            <span class="track_listing-track_number">4.&nbsp;&nbsp;</span>
+
+          Beautiful, Dirty, Rich
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-eh-eh-nothing-else-i-can-say-lyrics" class="track_listing-track" title="Eh, Eh (Nothing Else I Can Say)">
+
+            <span class="track_listing-track_number">5.&nbsp;&nbsp;</span>
+
+          Eh, Eh (Nothing Else I Can Say)
+        </a>
+
+    </div>
+
+    <div>
+
+        <span class="track_listing-track">
+
+            <span class="track_listing-track_number">6.&nbsp;&nbsp;</span>
+
+          Poker Face
+        </span>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-the-fame-lyrics" class="track_listing-track" title="The Fame">
+
+            <span class="track_listing-track_number">7.&nbsp;&nbsp;</span>
+
+          The Fame
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-money-honey-lyrics" class="track_listing-track" title="Money Honey">
+
+            <span class="track_listing-track_number">8.&nbsp;&nbsp;</span>
+
+          Money Honey
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-starstruck-lyrics" class="track_listing-track" title="Starstruck">
+
+            <span class="track_listing-track_number">9.&nbsp;&nbsp;</span>
+
+          Starstruck
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-boys-boys-boys-lyrics" class="track_listing-track" title="Boys Boys Boys">
+
+            <span class="track_listing-track_number">10.&nbsp;&nbsp;</span>
+
+          Boys Boys Boys
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-paper-gangsta-lyrics" class="track_listing-track" title="Paper Gangsta">
+
+            <span class="track_listing-track_number">11.&nbsp;&nbsp;</span>
+
+          Paper Gangsta
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-brown-eyes-lyrics" class="track_listing-track" title="Brown Eyes">
+
+            <span class="track_listing-track_number">12.&nbsp;&nbsp;</span>
+
+          Brown Eyes
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-i-like-it-rough-lyrics" class="track_listing-track" title="I Like It Rough">
+
+            <span class="track_listing-track_number">13.&nbsp;&nbsp;</span>
+
+          I Like It Rough
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-summerboy-lyrics" class="track_listing-track" title="Summerboy">
+
+            <span class="track_listing-track_number">14.&nbsp;&nbsp;</span>
+
+          Summerboy
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-disco-heaven-lyrics" class="track_listing-track" title="Disco Heaven">
+
+            <span class="track_listing-track_number">15.&nbsp;&nbsp;</span>
+
+          Disco Heaven
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-again-again-lyrics" class="track_listing-track" title="Again Again">
+
+            <span class="track_listing-track_number">16.&nbsp;&nbsp;</span>
+
+          Again Again
+        </a>
+
+    </div>
+
+    <div>
+
+        <a href="http://genius.com/Lady-gaga-retro-dance-freak-lyrics" class="track_listing-track" title="Retro Dance Freak">
+
+            <span class="track_listing-track_number">17.&nbsp;&nbsp;</span>
+
+          Retro Dance Freak
+        </a>
+
+    </div>
+
+</div>
+
+              </div>
+
+          </div>
+        </div>
+
+        <div ng-cloak class="song_body-annotations">
+          <annotation-sidebar click-outside="clear_current_referent()" suppress-click-outside-if-handled referent="current_referent"></annotation-sidebar>
+        </div>
+      </div>
+    </div>
+
+
+<ul class="breadcrumbs">
+  <li class="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a href="http://genius.com/" itemprop="url">
+      <span itemprop="title">Home</span>
+    </a>
+  </li>
+
+  <li class="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a href="http://genius.com/artists-index/l" itemprop="url">
+      <span itemprop="title">L</span>
+    </a>
+  </li>
+
+  <li class="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a href="http://genius.com/artists/Lady-gaga" itemprop="url">
+      <span itemprop="title">Lady Gaga</span>
+    </a>
+  </li>
+
+  <li class="breadcrumb breadcrumb-current_page" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a href="http://genius.com/Lady-gaga-poker-face-lyrics" itemprop="url">
+      <span itemprop="title">Poker Face Lyrics</span>
+    </a>
+  </li>
+</ul>
+
+  </div>
+
+
+
+  <kb shortcut="shift+a" action="song_ctrl.show_metadata_form_sections = {title_and_artists: true}"></kb>
+  <kb shortcut="shift+m" action="song_ctrl.show_metadata_form_sections = {audio_video_and_images: true}"></kb>
+  <kb shortcut="shift+t" action="song_ctrl.show_metadata_form_sections = {album_date_tags: true}"></kb>
+  <modal-window ng-if="song_ctrl.show_metadata_form_sections" on-close="song_ctrl.show_metadata_form_sections = undefined">
+    <song-metadata-form object="song" expanded-sections="song_ctrl.show_metadata_form_sections" on-save="save(song)"></song-metadata-form>
+  </modal-window>
+
+  <hide-song-form song="song" ng-if="song_ctrl.hiding_prompt_visible" on-close="song_ctrl.hiding_prompt_visible = false"></hide-song-form>
+
+  <chat ng-if="song_ctrl.chat_enabled" on-close="song_ctrl.chat_enabled = false"></chat>
+
+  <global-error-message></global-error-message>
+</div>
+
+    <div class="footer">
+  <a href="/about">About Genius</a>
+  <a href="/verified-artists">Verified Artists</a>
+  <a href="/contributor_guidelines">Contributor Guidelines</a>
+  <a href="/static/press" target="_blank">Press</a>
+  <a href="/static/privacy_policy" rel="nofollow" target="_blank">Privacy Policy</a>
+  <a href="/jobs">Jobs</a>
+  <a href="/developers">Developers</a>
+  <a href="/static/terms" rel="nofollow" target="_blank">Terms of Use</a>
+  <a href="/feedback/new" rel="nofollow">Contact us</a>
+
+  <a href="/login" class="facebox" rel="nofollow">Sign in</a>
+
+
+
+  <span class="footer-copyright">&copy; 2016 Genius Media Group Inc.</span>
+</div>
+
+
+  <script type="text/javascript">_qevents.push({ qacct: "p-f3CPQ6vHckedE"});</script>
+<noscript>
+  <div style="display: none;">
+    <img src="http://pixel.quantserve.com/pixel/p-f3CPQ6vHckedE.gif" height="1" width="1" alt="Quantcast"/>
+  </div>
+</noscript>
+
+
+
+<script type="text/javascript">
+
+  var _sf_async_config={};
+
+  _sf_async_config.uid = 3877;
+  _sf_async_config.domain = 'genius.com';
+  _sf_async_config.title = 'Lady Gaga – Poker Face';
+  _sf_async_config.sections = 'tag:pop';
+  _sf_async_config.authors = 'Lady Gaga';
+
+  var _cbq = window._cbq || [];
+
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+  <script type="text/javascript">
+//<![CDATA[
+
+  (function() {
+    var prefix = document.location.protocol === 'https:' ? 'https://sb.' : 'http://b.';
+    var pixel_src = prefix + 'scorecardresearch.com/p?c1=2&c2=17151659&cv=2.0&cj=1&c4=genius.com';
+
+    var img = new Image;
+    img.src = pixel_src;
+  })();
+
+//]]>
+</script>
+
+  <script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init('77967c52dc38186cc1aadebdd19e2a82');</script>
+
+
+
+  </body>
+</html>

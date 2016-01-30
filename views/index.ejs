@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app="LyricPic" lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LyricPicSpike</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular.min.js" charset="utf-8"></script>
+  <script src="/js/app.js" charset="utf-8"></script>
+</head>
+<body>
+  <div ng-controller="main">
+    <form ng-submit="getLyrics()">
+      <input type="text" ng-model="searchArtist">
+      <input type="text" ng-model="searchSong">
+      <button type="submit">Search!</button>
+    </form>
+  </div>
+  <div ng-controller="renderPics"></div>
+</body>
+</html>

@@ -10,9 +10,9 @@ router.get('/', function(req, res){
 });
 
 router.post('/', function(req, res){
-    request("http://genius.com/Alesso-heroes-we-could-be-lyrics", function(err, response){
+    request(req.body, function(err, response){
 
-    var html = req.body;
+    var html = response.body;
 
     // var html = fs.readFileSync('pokerface.html', 'utf8');
 

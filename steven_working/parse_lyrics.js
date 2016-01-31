@@ -18,7 +18,7 @@ $('a').each(function(){
     lyricsArr.push( $(this).text() );
 });
 // console.log(lyricsArr);
-
+ var words = [];
 for (var i = 0; i < lyricsArr.length; i++) {
     line = lyricsArr[i].replace(/[^A-Za-z\s-]|/g, "");
     line = line.replace(/\n|-/g, " ");
@@ -27,6 +27,14 @@ for (var i = 0; i < lyricsArr.length; i++) {
         return b.length - a.length;
     });
 
-    console.log(line[0]);
+    words.push(line[0]);
 }
+
+var response = {
+    words: words,
+    lines: lyricsArr
+}
+
+console.log(response);
+
 });

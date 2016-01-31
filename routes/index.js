@@ -10,6 +10,7 @@ router.get('/', function(req, res){
 });
 
 router.post('/', function(req, res){
+    console.log(req.url);
     request(req.body, function(err, response){
 
     var html = response.body;

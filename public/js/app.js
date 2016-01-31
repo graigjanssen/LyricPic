@@ -36,7 +36,7 @@ app.controller('main', ['$scope', '$http', function($scope, $http){
   $scope.getLyrics = function(){
     var searchTerms = prepareString($scope.searchArtist, $scope.searchSong);
     var geniusUrl = 'http://genius.com/' + searchTerms + '-lyrics';
-    $http.post('http://localhost:8080/', geniusUrl).then(function(response){
+    $http.post('http://localhost:8080/', {url: geniusUrl}).then(function(response){
       console.log(response);
     });
   };

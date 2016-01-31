@@ -6,6 +6,16 @@
   <link rel="stylesheet" href="/css/styles.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular.min.js" charset="utf-8"></script>
   <script src="/js/app.js" charset="utf-8"></script>
+  <style>
+    #left {
+      float: left;
+      width: 40vw;
+    }
+    #right {
+      float: right;
+      width: 40vw;
+    }
+  </style>
 </head>
 <body>
   <div ng-controller="main">
@@ -14,12 +24,17 @@
       <input type="text" ng-model="searchSong" placeholder="..song">
       <button type="submit">Search!</button>
     </form>
-
-    <div ng-repeat="line in lines" class="lyric-lines">
+    <div id="left">
+    <div  ng-repeat="line in lines" class="lyric-lines">
       <h5>{{line}}</h5>
+    </div>
+    </div>
+    <div id="right">
+    <div  ng-repeat='pic in pics track by $index'>
+      <img ng-src="{{pic}}" alt="">
+    </div>
     </div>
 
   </div>
-  <div ng-controller="renderPics"></div>
 </body>
 </html>

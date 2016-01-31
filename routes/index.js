@@ -10,8 +10,7 @@ router.get('/', function(req, res){
 });
 
 router.post('/', function(req, res){
-    console.log(req.url);
-    request(req.body, function(err, response){
+    request('http://genius.com/'+req.query.url, function(err, response){
 
     var html = response.body;
 
@@ -38,12 +37,13 @@ router.post('/', function(req, res){
 
         words.push(line[0]);
     }
-    });
-
     res.json({
         lines: lyricsArr,
         words: words
     });
+    });
+
+
 
 });
 

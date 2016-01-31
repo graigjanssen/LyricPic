@@ -34,15 +34,16 @@ app.controller('main', ['$scope', '$http', function($scope, $http){
   $scope.words = [];
 
   $scope.getLyrics = function(){
-    var urlString = prepareString($scope.searchArtist, $scope.searchSong);
-    $http.jsonp('http://genius.com/' + urlString + '-lyrics').then(function(response){
-      parseLyrics(response.body);
+    var searchTerms = prepareString($scope.searchArtist, $scope.searchSong);
+    var geniusUrl = 'http://genius.com/' + searchTerms + '-lyrics';
+    $http.post('http://localhost:8080/', geniusUrl).then(function(response){
+      console.log(response);
     });
   };
 
   function parseLyrics(response){
     $http.post('http://localhost:8080/', response).then(function(data){
-      console.log(data);
+      console.log('response from localhost:' + data);
       $scope.lines = data.lines;
       $scope.words = data.words;
     });

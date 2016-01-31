@@ -10,10 +10,15 @@
 <body>
   <div ng-controller="main">
     <form ng-submit="getLyrics()">
-      <input type="text" ng-model="searchArtist">
-      <input type="text" ng-model="searchSong">
+      <input type="text" ng-model="searchArtist" placeholder="..artist">
+      <input type="text" ng-model="searchSong" placeholder="..song">
       <button type="submit">Search!</button>
     </form>
+
+    <div ng-repeat="line in lines" class="lyric-lines">
+      <h5>{{line}}</h5>
+    </div>
+
   </div>
   <div ng-controller="renderPics"></div>
 </body>

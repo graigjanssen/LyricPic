@@ -30,12 +30,23 @@ app.controller('main', ['$scope', '$http', function($scope, $http){
   $scope.searchArtist = '';
   $scope.searchSong = '';
 
+  $scope.lines = [];
+  $scope.words = [];
+
   $scope.getLyrics = function(){
     var urlString = prepareString($scope.searchArtist, $scope.searchSong);
-    $http.get('http://genius.com/' + urlString + '-lyrics').then(function(response){
-      console.log('' + response);
+    $http.jsonp('http://genius.com/' + urlString + '-lyrics').then(function(response){
+      parseLyrics(response.body);
     });
   };
+
+  function parseLyrics(response){
+    $http.post('http://localhost:8080/', response).then(function(data){
+      console.log(data);
+      $scope.lines = data.lines;
+      $scope.words = data.words;
+    });
+  }
 
   function prepareString(artist, song){
     var dashArtist = artist.split(' ').join('-');

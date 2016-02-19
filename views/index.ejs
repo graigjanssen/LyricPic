@@ -15,6 +15,13 @@
       float: right;
       width: 40vw;
     }
+
+    .lyric-line, .lyric-image {
+        height: 200px;
+    }
+    .lyric-image img {
+        height: 100%;
+    }
   </style>
 </head>
 <body>
@@ -25,12 +32,12 @@
       <button type="submit">Search!</button>
     </form>
     <div id="left">
-    <div  ng-repeat="line in lines" class="lyric-lines">
-      <h5>{{line}}</h5>
+    <div  ng-repeat="line in lines track by $index" class="lyric-line">
+      <h2>{{line}}</h2>
     </div>
     </div>
     <div id="right">
-    <div  ng-repeat='pic in pics track by $index'>
+    <div  ng-repeat='pic in pics track by $index' class="lyric-image">
       <img ng-src="{{pic}}" alt="">
     </div>
     </div>
